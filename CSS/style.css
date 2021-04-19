@@ -1,0 +1,11 @@
+header{
+    background-image: url(../Img/pattern.png);
+    border: none;
+    background-color: lightblue;
+    height: 130px;
+    width: 100%;
+}    
+.Img-Logo{
+    width: 250px;
+    padding: 60px 10px;
+}
