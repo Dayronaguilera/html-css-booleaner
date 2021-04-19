@@ -1,20 +1,56 @@
 header{
     background-image: url(../Img/pattern.png);
     border: none;
-    background-color: lightblue;
+    background-color: rgb(96, 186, 216);
     height: 130px;
     width: 100%;
+}
+.container{
+    width: 70%;    
 }    
 .Img-Logo{
     width: 250px;
     padding: 60px 10px;
 }
 .sotto-titolo{
-    color: rgb(195, 192, 192);
+    color: grey;
 }
 .nav{
     color: rgb(52, 116, 189);
 }
 .text-color{
-    background-color: yellow;
+    background-color: rgb(243, 243, 20);
+}
+/* tabella */
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+.row-head{
+    background-color: rgb(51, 113, 233);
+    color: white;
+    text-align: left;
+}
+.row-body{
+    background: rgb(70, 214, 200);
+}
+.row-50{
+    width: 50%;
+}
+/* img footer */
+.first{
+    background:  url(../Img/monitor.jpg);
+}
+.img{
+    width: 250px;
+    height: 200px;
+    color: white;
+    margin-bottom: 1%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    font-size: 30px;
+}
+.second{
+    background-image: url(../Img/graph.jpg);
 }
