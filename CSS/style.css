@@ -9,3 +9,12 @@ header{
     width: 250px;
     padding: 60px 10px;
 }
+.sotto-titolo{
+    color: rgb(195, 192, 192);
+}
+.nav{
+    color: rgb(52, 116, 189);
+}
+.text-color{
+    background-color: yellow;
+}
